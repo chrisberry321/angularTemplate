@@ -1,4 +1,5 @@
 import { Component } from 'angular2/core';
+import { TaskComponent } from './task.component';
 import { Task } from './task.model';
 
 // grandchild of parent; child of child
